@@ -1,5 +1,5 @@
 function MessageList() {
-  return <h1>MessageList</h1>;
+  return <h1>Message List</h1>;
 }
 
 export { MessageList };
